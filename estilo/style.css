@@ -20,6 +20,7 @@ main{
     height: 100vh;
    
 }
+
 #telefone{
     position: absolute;
     top: 50%;
@@ -29,4 +30,12 @@ main{
     width: 311px;
     
     background: url(../pacote-d013/imagens/frame-iphone.png) no-repeat;
+}
+#tela{
+    position: relative;
+    
+    top: 77px;
+    left: 22px;
+    width: 268px;
+    height: 474.5px;
 }
